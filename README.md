@@ -73,7 +73,7 @@ Tota la documentació s'escriu en **català**. Si feu canvis, executeu `npm run 
 
 ## Llicència
 
-[MIT](LICENSE).
+[AGPLv3](LICENSE)
 
 ## Crèdits
 
