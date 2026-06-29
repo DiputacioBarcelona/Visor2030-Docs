@@ -2,6 +2,8 @@
 
 Documentació tècnica del projecte **Visor 2030**: una plataforma de codi obert per visualitzar i gestionar indicadors dels **Objectius de Desenvolupament Sostenible (ODS)** per a municipis catalans.
 
+Copyright (C) Diputació de Barcelona
+
 - **Visor públic**: [https://visor2030.diba.cat/](https://visor2030.diba.cat/)
 - **Documentació tècnica (aquesta)**: [https://visor2030-documentacio.diba.cat/](https://visor2030-documentacio.diba.cat/)
 
